@@ -7,7 +7,9 @@
 
 ### Work Related Profiles
 
-[<img align="left" width="40px" alt="GitHub Profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>](https://github.com/AngeloFilaseta)
+[<img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-white.svg#gh-dark-mode-only"/>](https://github.com/AngeloFilaseta)
+
+[<img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-black.svg#gh-light-mode-only"/>](https://github.com/AngeloFilaseta)
 
 [<img align="left" width="40px" alt="Bitbucket Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/AngeloFilaseta/)
 
