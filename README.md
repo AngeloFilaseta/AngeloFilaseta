@@ -7,9 +7,13 @@
 
 ### Work Related Profiles
 
-[<img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-white.svg#gh-dark-mode-only"/>](https://github.com/AngeloFilaseta)
+<a href="https://github.com/AngeloFilaseta/#gh-light-mode-only">
+    <img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-black.svg"/>
+</a>
 
-[<img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-black.svg#gh-light-mode-only"/>](https://github.com/AngeloFilaseta)
+<a href="https://github.com/AngeloFilaseta/#gh-dark-mode-only">
+    <img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-white.svg"/>
+</a>
 
 [<img align="left" width="40px" alt="Bitbucket Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/AngeloFilaseta/)
 
