@@ -7,7 +7,7 @@
 
 ### Work Related Profiles
 
-[<img align="left" width="40px" alt="GitHub Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>](https://github.com/AngeloFilaseta)
+[<img align="left" width="40px" alt="GitHub Profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>](https://github.com/AngeloFilaseta)
 
 [<img align="left" width="40px" alt="Bitbucket Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/AngeloFilaseta/)
 
@@ -24,8 +24,8 @@
 
 [<img align="left" alt="LinkedIn Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/angelofilaseta)
 
-[<img align="left" alt="Instagram Profile" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/instagram.svg" />](https://www.instagram.com/angelo.filaseta)
+[<img align="left" alt="Instagram Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />](https://www.instagram.com/angelo.filaseta)
 
-[<img align="left" alt="Skype Profile" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/skype.svg"/>](https://join.skype.com/invite/iRFhATZSh58Q)
+[<img align="left" alt="Skype Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>](https://join.skype.com/invite/iRFhATZSh58Q)
 
-[<img align="left" alt="Spotify Profile" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/spotify.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
+[<img align="left" alt="Spotify Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
