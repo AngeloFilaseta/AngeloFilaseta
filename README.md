@@ -3,7 +3,7 @@
 ### About me
 
 - :it: Living in _Pesaro (61122), Marche, Italy_.
-- :books: Student at the _University of Bologna_ (Cesena Campus).  
+- :books: Student at the _University of Bologna_ (Cesena Campus).
 
 [![AngeloFilaseta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloFilaseta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
