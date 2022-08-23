@@ -1,13 +1,24 @@
 ## Angelo Filaseta
 
-### About me
+## About me
 
 - :it: Living in _Pesaro (61122), Marche, Italy_.
 - :books: Student at the _University of Bologna_ (Cesena Campus).
 
-[![AngeloFilaseta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloFilaseta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Some GitHub stats
 
-### Work Related Profiles
+<div align="center">
+
+ [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![AngeloFilaseta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloFilaseta&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![AngeloFilaseta's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AngeloFilaseta&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+
+#### Other Profiles
 
 <a href="https://github.com/AngeloFilaseta/#gh-light-mode-only">
     <img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-black.svg"/>
