@@ -9,7 +9,7 @@
 
 <div align="center">
 
- [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+ [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&columns=-1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![AngeloFilaseta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloFilaseta&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
