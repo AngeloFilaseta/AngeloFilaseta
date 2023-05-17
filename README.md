@@ -72,19 +72,15 @@ Here are some additional tools I have employed in the past. Although I may not p
 <br/>
 
 ### Other Profiles
-
 [<img align="left" alt="Facebook Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>](https://www.facebook.com/angelo.filaseta/)
-
 [<img align="left" alt="Twitter Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](https://twitter.com/angelo_filaseta)
-
 [<img align="left" alt="LinkedIn Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/angelofilaseta)
-
 [<img align="left" alt="Instagram Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />](https://www.instagram.com/angelo.filaseta)
-
 [<img align="left" alt="Skype Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>](https://join.skype.com/invite/iRFhATZSh58Q)
+[<img align="left" alt="Spotify Profile" width="30px"
+src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
 
-[<img align="left" alt="Spotify Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
-
+<br/>
 
 ## Statistics
 
