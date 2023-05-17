@@ -1,115 +1,60 @@
 ## Angelo Filaseta
 
+Hi, I'm Angelo, a Software engineer with a _MSc in Computer Science and Engineering_. You can find my Curriculum Vitae [here](https://github.com/AngeloFilaseta/curriculum-vitae/releases/latest/download/cv-angelo-filaseta.pdf).
 
-## About me
+- __Graduation__: LM-32 in May 2023, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
+- __Current Position__: Developer at [SCM Group](https://www.scmgroup.com/it).
+- __Email__: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
 
-- 🇮🇹 Living in _Pesaro (61122), Marche, Italy_.
+## Familiar Tools
 
-- 🎓 Student at the _University of Bologna_ (Cesena Campus).
+Here is a curated list of tools that I frequently utilize and consider myself skilled with. While this list is not exhaustive, it represents the tools I have extensively used in the past, showcasing my familiarity with them.
 
-- 🔭 I’m currently working on my [Master Thesis](https://github.com/AngeloFilaseta/master-thesis).
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 📧 Reach me on my email **filaseta.angelo@gmail.com** or on any other social.
-
-### Some GitHub Stats
-
-<div align="center">
-
- [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![AngeloFilaseta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloFilaseta&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AngeloFilaseta's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AngeloFilaseta&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
+## Other Tools
+Here are some additional tools I have employed in the past. Although I may not possess the same level of fluency and proficiency with these tools as the ones listed above, I am always open to learning and expanding my skill set.
 
 
-### Some Languages and Tools
-<div align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![K8S](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### Work Profiles
+### Work Profiles
 
 <a href="https://github.com/AngeloFilaseta/#gh-light-mode-only">
     <img align="left" width="40px" alt="GitHub Profile" src="/.github/images/gh-black.svg"/>
@@ -126,7 +71,7 @@
 [<img width="40px" alt="StackOverflow Profile" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/stackoverflow.svg"/>](https://stackoverflow.com/users/16766145/angelofilaseta)
 <br/>
 
-#### Other Profiles
+### Other Profiles
 
 [<img align="left" alt="Facebook Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>](https://www.facebook.com/angelo.filaseta/)
 
@@ -139,3 +84,19 @@
 [<img align="left" alt="Skype Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>](https://join.skype.com/invite/iRFhATZSh58Q)
 
 [<img align="left" alt="Spotify Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
+
+
+## Statistics
+
+
+<div align="center">
+
+ [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![AngeloFilaseta's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AngeloFilaseta&theme=merko)
+
+[![AngeloFilaseta's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AngeloFilaseta&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloFilaseta&theme=nord_dark)
+![AngeloFilaseta's Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=AngeloFilaseta&theme=vue)
+</div>
