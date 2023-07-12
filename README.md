@@ -4,9 +4,9 @@ Hi, I'm Angelo, a Software engineer and developer with a _MSc in Computer Scienc
 
 ### About me
 
-- __Graduation__:mortar_board:: LM-32 in May 2023, in DISI, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
-- __Current Position__:briefcase:: Research Fellow and Professor at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://www.unibo.it/sitoweb/angelo.filaseta2/).
-- __Email__:mailbox:: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
+- __Graduation__: LM-32 in May 2023, in DISI, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
+- __Current Position__: Research Fellow and Professor at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://www.unibo.it/sitoweb/angelo.filaseta2/).
+- __Email__: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
 
 #### Some very very random info about me
 
