@@ -1,10 +1,19 @@
 ## Angelo Filaseta
 
-Hi, I'm Angelo, a Software engineer with a _MSc in Computer Science and Engineering_. You can find my Curriculum Vitae [here](https://github.com/AngeloFilaseta/curriculum-vitae/releases/latest/download/cv-angelo-filaseta.pdf).
+Hi, I'm Angelo, a Software engineer and developer with a _MSc in Computer Science and Engineering_. You can find my Curriculum Vitae [here](https://github.com/AngeloFilaseta/curriculum-vitae/releases/latest/download/cv-angelo-filaseta.pdf).
 
-- __Graduation__: LM-32 in May 2023, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
-- __Current Position__: Developer at [SCM Group](https://www.scmgroup.com/it).
-- __Email__: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
+### About me
+
+- __Graduation__:mortar_board:: LM-32 in May 2023, in DISI, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
+- __Current Position__:briefcase:: Research Fellow and Professor at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://www.unibo.it/sitoweb/angelo.filaseta2/).
+- __Email__:mailbox:: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
+
+#### Some very very random info about me
+
+- My Favorite color is <span style="color:green">__Green__</span> :seedling:.
+- My Zodiac Sign is _Sagittarius_ :sagittarius: .
+- I own a personal and custom vocabulary named :closed_book:[Vocabolangelo](www.vocabolangelo.org). Beware, this might be NSFW :eyes::underage:.
+- Some of my closer friends call me THE KING:crown: because of [this meme](https://scontent.fflr2-1.fna.fbcdn.net/v/t1.6435-9/44213897_2222793941329145_2858421681767055360_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=110474&_nc_ohc=2s2X1beA9bYAX9dbiTb&_nc_ht=scontent.fflr2-1.fna&oh=00_AfBRSPs9jV4Y7_MIODRhuSGY1tBeU3N2A7xs0Uj1OPZB4A&oe=64D61169).
 
 ## Familiar Tools
 
