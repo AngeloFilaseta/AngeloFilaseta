@@ -103,5 +103,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_te
 [![AngeloFilaseta's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AngeloFilaseta&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloFilaseta&theme=nord_dark)
-![AngeloFilaseta's Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=AngeloFilaseta&theme=vue)
 </div>
