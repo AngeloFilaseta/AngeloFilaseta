@@ -13,7 +13,7 @@ Hi, I'm Angelo, a Software engineer and developer with a _MSc in Computer Scienc
 - My Favorite color is <span style="color:green">__Green__</span> :seedling:.
 - My Zodiac Sign is _Sagittarius_ :sagittarius: .
 - I own a personal and custom vocabulary named :closed_book: [Vocabolangelo](https://www.vocabolangelo.org). Beware, this might be NSFW :eyes::underage:.
-- Some of my closer friends call me THE KING :crown: because of [this meme]("https://raw.githubusercontent.com/AngeloFilaseta/AngeloFilaseta/master/.github/images/angelo_chiamato_the_king.jpeg").
+- Some of my closer friends call me THE KING :crown: because of [this meme](https://raw.githubusercontent.com/AngeloFilaseta/AngeloFilaseta/master/.github/images/angelo_chiamato_the_king.jpeg).
 
 ## Familiar Tools
 
