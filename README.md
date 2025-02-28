@@ -1,6 +1,10 @@
 ## Angelo Filaseta
 
-Hi, I'm Angelo, a Software engineer and developer with a _MSc in Computer Science and Engineering_. You can find my Curriculum Vitae [here](https://github.com/AngeloFilaseta/curriculum-vitae/releases/latest/download/cv-angelo-filaseta.pdf).
+Hi, I'm **Angelo**, a Software Engineer and Developer with a _MSc in Computer Science and Engineering_.
+
+I have contributed to the development and management of projects across diverse fields, spanning both academic and industrial environments.
+
+[Curriculum Vitae](https://github.com/AngeloFilaseta/curriculum-vitae-short/releases/latest/download/cv-filaseta-angelo.pdf) 🈺
 
 ### About me
 
@@ -36,7 +40,6 @@ Here is a curated list of tools that I frequently utilize and consider myself sk
 
 ## Other Tools
 Here are some additional tools I have employed in the past. Although I may not possess the same level of fluency and proficiency with these tools as the ones listed above, I am always open to learning and expanding my skill set.
-
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
