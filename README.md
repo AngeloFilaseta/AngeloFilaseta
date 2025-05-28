@@ -12,12 +12,14 @@ I have contributed to the development and management of projects across diverse 
 - __Current Position__: Research Fellow and Professor at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://www.unibo.it/sitoweb/angelo.filaseta2/).
 - __Email__: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
 
-#### Some very very random info about me
+#### Some very very VERY random info about me
 
-- My Favorite color is <span style="color:green">__Green__</span> :seedling:.
-- My Zodiac Sign is _Sagittarius_ :sagittarius: .
+- My favorite color is <span style="color:green">__Green__</span> and my Zodiac sign is _Sagittarius_ :sagittarius: .
 - I own a personal and custom vocabulary named :closed_book: [Vocabolangelo](https://www.vocabolangelo.org). Beware, this might be NSFW :eyes::underage:.
 - Some of my closer friends call me THE KING :crown: because of [this meme](https://raw.githubusercontent.com/AngeloFilaseta/AngeloFilaseta/master/.github/images/angelo_chiamato_the_king.jpeg).
+- Even if in the past I was a plant serial killer, I kind of became quite good at caring for my plants :seedling:
+  - PS: if you want, I could gift you some, just ask!
+- I love card games, with my favorite being _Magic: The Gathering_ :crystal_ball:, I only play the Commander format though (since it's funnier).
 
 ## Familiar Tools
 
@@ -85,25 +87,7 @@ Here are some additional tools I have employed in the past. Although I may not p
 
 ### Other Profiles
 [<img align="left" alt="Facebook Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>](https://www.facebook.com/angelo.filaseta/)
-[<img align="left" alt="Twitter Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](https://twitter.com/angelo_filaseta)
 [<img align="left" alt="LinkedIn Profile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/angelofilaseta)
-[<img align="left" alt="Instagram Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />](https://www.instagram.com/angelo.filaseta)
-[<img align="left" alt="Skype Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>](https://join.skype.com/invite/iRFhATZSh58Q)
+[<img align="left" alt="Instagram Profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />](https://www.instagram.com/angelo.filaseta>)
 [<img align="left" alt="Spotify Profile" width="30px"
 src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/052dn7tjl8haesbwolunk8bg0)
-
-<br/>
-
-## Statistics
-
-
-<div align="center">
-
- [![AngeloFilaseta's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AngeloFilaseta&theme=onestar&row=2&column=3&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![AngeloFilaseta's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AngeloFilaseta&theme=merko)
-
-[![AngeloFilaseta's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AngeloFilaseta&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloFilaseta&theme=nord_dark)
-</div>
