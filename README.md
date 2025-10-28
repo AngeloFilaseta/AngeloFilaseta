@@ -9,7 +9,7 @@ I have contributed to the development and management of projects across diverse 
 ### About me
 
 - __Graduation__: LM-32 in May 2023, in DISI, at [Università di Bologna (UniBo), Campus di Cesena (FC) - Emilia Romagna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche).
-- __Current Position__:Developer at [SCM Group](https://www.scmgroup.com/it) / Professor at [Università di Bologna (UniBo), Campus di Cesena](https://www.unibo.it/sitoweb/angelo.filaseta2/).
+- __Current Position__: Developer at [SCM Group](https://www.scmgroup.com/it) / Professor at [Università di Bologna (UniBo), Campus di Cesena](https://www.unibo.it/sitoweb/angelo.filaseta2/).
 - __Email__: [filaseta.angelo@gmail.com](mailto:filaseta.angelo@gmail.com)
 
 #### Some very very VERY random info about me
